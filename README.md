@@ -1,4 +1,5 @@
 ## What code draws the blades of grass?
+```
 var x = 0;
 var h = 10;
 
@@ -19,6 +20,8 @@ function draw() {
     rect(0, 0, width, height-15);
     h = 10;
   }
+}
+```
   
   
 ## What code makes the "lawnmower" come by? How often does it come by?
