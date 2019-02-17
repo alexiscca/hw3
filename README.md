@@ -40,3 +40,14 @@ The h variable creates the height of the grass. It grows +3 everytime the grass 
 
 ## What does the -10 do in the second and fourth arguments of the line function, height-10-random(h)? Why is it there?
 The -10 sets the grass to be drawn above the brown dirt. 
+
+
+
+## What's the point of an object?
+Objects organize variables to keep it in a neat and tidy way. 
+
+## What's an example of a range you might use for the map function?
+map(mouseX, 0, 600, 0, 255);
+
+## What line of code would give me a random year in the last century?
+random( 1919, 2019);
